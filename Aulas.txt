@@ -1,4 +1,32 @@
+HexMania Advance :
 
+Battle Tower :
+-Alterar os itens permitidos
+Data > BattleTower > Items
+-Alterar os prêmios
+Data > BattleTower > Prizes
+-Alterar os pokémon Lv 50
+Data > BattleTower > Pokemon > Lv 50
+--Alterar os pokémon Lv 100
+Data > BattleTower > Pokemon > Lv 100
+
+Habilidades :
+-Alterar a descrição
+Data > Abilities > Descrition 
+-Alterar o nome 
+Data > Abilities > Names
+
+Itens :
+-Alterar a chance ( ? )
+Data > Abilities > Pickup > Items
+
+Movimentos :
+-Alterar som 
+Data > Abilities > Soundproof > Moves
+
+Treinadores :
+-Alterar 
+Data > Trainers > Stats
 
 Aula 01 : Tabelas
 
