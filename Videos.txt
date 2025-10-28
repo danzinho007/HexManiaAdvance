@@ -1,0 +1,47 @@
+Aula 01 : Tabelas
+
+Aula ?? : Batalha no mundo 
+https://www.youtube.com/shorts/7iM9y_1kyf4
+
+Aula ?? : Blocos customizados
+https://www.youtube.com/shorts/tdRaJ5Vn660
+
+Aula ?? : Encontros Estáticos ( Lendários )
+https://www.youtube.com/shorts/h42jvsKdPzA
+
+Aula ?? : Movimentos - Criar Tutor 
+https://www.youtube.com/shorts/4Y_8u2lR1JQ
+
+Aula ?? : NPC que cura 
+https://www.youtube.com/shorts/vjfKWE708Mo
+
+Aula ?? : Pokémon do matinho alterado
+https://www.youtube.com/shorts/4GVAZ-OE0Ig
+
+Aula ?? : Pokémon Inicial alterado
+https://www.youtube.com/shorts/YdwByzgxfzA
+
+Aula ?? : Shiny Garantido 
+https://www.youtube.com/shorts/esoM70Usw1k
+
+Aula ?? : Shopping 
+https://www.youtube.com/shorts/YuA1ehOyInE
+
+Aula ?? : Teleporte
+https://www.youtube.com/shorts/d4BS0YqMxLE
+
+Aula ?? : Treinador customizado
+https://www.youtube.com/shorts/R8ZiXhhc0EM
+https://www.youtube.com/shorts/R88cvDpwmhg
+https://www.youtube.com/shorts/1-qegUygG1M
+
+Aula ?? : Trocas 
+https://www.youtube.com/shorts/wOKD8gHrCmU
+
+MapName = Nome do mapa
+Music = Música que toca 
+
+HexMania Advance :
+https://github.com/haven1433/HexManiacAdvance/blob/master/src/HexManiac.Core/Models/Code/scriptReference.md#specials
+
+https://www.youtube.com/watch?v=gUj-lP2Zccg
